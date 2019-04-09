@@ -1,1 +1,4 @@
-# The template for Chrome extension by Typescript, Webpack and (optional) Vue
+# The template for Chrome extension
+- Typescript
+- Webpack
+- (optional) Vue
